@@ -1,0 +1,49 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Argument Cartographer</title>
+  <link rel="stylesheet" href="/static/css/global.css" />
+
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+
+  <!-- Add this Google Font -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+
+  <link rel="stylesheet" href="/static/css/global.css" />
+
+
+</head>
+<body class="bg-background text-foreground">
+  <div class="mx-auto chat-shell" style="padding:32px 16px;">
+    <header style="margin-bottom:18px;">
+      <h1 class="header-title">Argument Cartographer</h1>
+      <p class="header-sub">AI-powered argument mapping and analysis</p>
+    </header>
+
+    <main class="chat-main">
+      <div id="chat-area" class="chat-area">
+        <div class="chat-inner">
+          <div id="chat-container" class="chat-container">
+            <div class="empty-state">
+              <p class="empty-title">Start mapping an argument</p>
+              <p class="empty-sub">Enter a topic, question, or paste a URL to begin</p>
+            </div>
+          </div>
+        </div>
+
+        <div class="composer-bar">
+          <input id="user-input" class="input-pill" type="text" placeholder="Type your topic or question..." autocomplete="off" />
+          <button id="send-btn" class="send-btn">Analyze</button>
+        </div>
+      </div>
+    </main>
+  </div>
+
+  <script src="/static/js/chat.js"></script>
+</body>
+</html>

@@ -1,0 +1,461 @@
+{
+  "average_accuracy": 67.80039682539683,
+  "category_scores": {
+    "thesis": 79.0,
+    "supporting_claims": 71.35714285714286,
+    "counterarguments": 53.13333333333333,
+    "evidence": 67.71111111111111
+  },
+  "individual_results": [
+    {
+      "source_id": "article_1",
+      "title": "Green Party leader Zack Polanski answers questions...",
+      "overall_accuracy": 0.7083333333333334,
+      "thesis_score": 0.5,
+      "claims_score": 0.6666666666666667,
+      "counter_score": 1.0,
+      "evidence_score": 0.6666666666666667
+    },
+    {
+      "source_id": "article_2",
+      "title": "Green Party leader Zack Polanski answers questions...",
+      "overall_accuracy": 0.7916666666666667,
+      "thesis_score": 0.5,
+      "claims_score": 0.6666666666666667,
+      "counter_score": 1.0,
+      "evidence_score": 1.0
+    },
+    {
+      "source_id": "article_3",
+      "title": "Comedy and climate change: Michelle Wolf, David Pe...",
+      "overall_accuracy": 0.875,
+      "thesis_score": 0.5,
+      "claims_score": 1.0,
+      "counter_score": 1.0,
+      "evidence_score": 1.0
+    },
+    {
+      "source_id": "article_4",
+      "title": "Rupert Murdoch steps down as chairman of Fox News ...",
+      "overall_accuracy": 0.7916666666666667,
+      "thesis_score": 1.0,
+      "claims_score": 1.0,
+      "counter_score": 0.5,
+      "evidence_score": 0.6666666666666667
+    },
+    {
+      "source_id": "article_6",
+      "title": "Trump administration revives large coal sales from...",
+      "overall_accuracy": 0.5833333333333334,
+      "thesis_score": 1.0,
+      "claims_score": 0.6666666666666667,
+      "counter_score": 0.0,
+      "evidence_score": 0.6666666666666667
+    },
+    {
+      "source_id": "article_7",
+      "title": "Light Years Ahead Of Their Elders, Young Republica...",
+      "overall_accuracy": 0.875,
+      "thesis_score": 1.0,
+      "claims_score": 1.0,
+      "counter_score": 0.5,
+      "evidence_score": 1.0
+    },
+    {
+      "source_id": "article_8",
+      "title": "EPA says it will roll back climate rules. That cou...",
+      "overall_accuracy": 0.875,
+      "thesis_score": 1.0,
+      "claims_score": 1.0,
+      "counter_score": 0.5,
+      "evidence_score": 1.0
+    },
+    {
+      "source_id": "article_9",
+      "title": "EPA’s climate rollback squeezes states",
+      "overall_accuracy": 0.7916666666666667,
+      "thesis_score": 0.5,
+      "claims_score": 1.0,
+      "counter_score": 1.0,
+      "evidence_score": 0.6666666666666667
+    },
+    {
+      "source_id": "article_10",
+      "title": "EPA proposes to rescind 2009 Endangerment Finding ...",
+      "overall_accuracy": 0.7916666666666667,
+      "thesis_score": 0.5,
+      "claims_score": 0.6666666666666667,
+      "counter_score": 1.0,
+      "evidence_score": 1.0
+    },
+    {
+      "source_id": "article_11",
+      "title": "Trump administration to expand coal mining, delay ...",
+      "overall_accuracy": 0.4166666666666667,
+      "thesis_score": 1.0,
+      "claims_score": 0.6666666666666667,
+      "counter_score": 0.0,
+      "evidence_score": 0.0
+    },
+    {
+      "source_id": "article_12",
+      "title": "Former Cisco Systems CEO John Chambers talks AI an...",
+      "overall_accuracy": 0.7916666666666667,
+      "thesis_score": 0.5,
+      "claims_score": 1.0,
+      "counter_score": 1.0,
+      "evidence_score": 0.6666666666666667
+    },
+    {
+      "source_id": "article_13",
+      "title": "Elon Musk Warns Governors: Artificial Intelligence...",
+      "overall_accuracy": 0.49583333333333335,
+      "thesis_score": 1.0,
+      "claims_score": 0.4,
+      "counter_score": 0.25,
+      "evidence_score": 0.33333333333333337
+    },
+    {
+      "source_id": "article_16",
+      "title": "BBC Green Sport Awards 2025 winners announced",
+      "overall_accuracy": 0.625,
+      "thesis_score": 0.5,
+      "claims_score": 0.4,
+      "counter_score": 1.0,
+      "evidence_score": 0.6
+    },
+    {
+      "source_id": "article_17",
+      "title": "Indonesia's clean energy future is at the center o...",
+      "overall_accuracy": 0.6821428571428572,
+      "thesis_score": 1.0,
+      "claims_score": 0.4285714285714286,
+      "counter_score": 1.0,
+      "evidence_score": 0.30000000000000004
+    },
+    {
+      "source_id": "article_18",
+      "title": "Hyundai gets $1.8B in aid to build electric cars i...",
+      "overall_accuracy": 0.48809523809523814,
+      "thesis_score": 0.5,
+      "claims_score": 0.5,
+      "counter_score": 0.6666666666666667,
+      "evidence_score": 0.2857142857142857
+    },
+    {
+      "source_id": "article_20",
+      "title": "U.K. Bans Gas And Diesel Cars Starting 2040: Elect...",
+      "overall_accuracy": 0.6041666666666667,
+      "thesis_score": 0.5,
+      "claims_score": 0.75,
+      "counter_score": 0.6666666666666667,
+      "evidence_score": 0.5
+    },
+    {
+      "source_id": "article_21",
+      "title": "The people who hate working from home",
+      "overall_accuracy": 0.48392857142857143,
+      "thesis_score": 1.0,
+      "claims_score": 0.4,
+      "counter_score": 0.25,
+      "evidence_score": 0.2857142857142857
+    },
+    {
+      "source_id": "article_22",
+      "title": "Moonlighting: The controversy among India's tech w...",
+      "overall_accuracy": 0.4513888888888889,
+      "thesis_score": 1.0,
+      "claims_score": 0.33333333333333337,
+      "counter_score": 0.25,
+      "evidence_score": 0.2222222222222222
+    },
+    {
+      "source_id": "article_23",
+      "title": "A 16th-century Spanish explorer claimed this Flori...",
+      "overall_accuracy": 0.35357142857142854,
+      "thesis_score": 0.5,
+      "claims_score": 0.19999999999999996,
+      "counter_score": 0.0,
+      "evidence_score": 0.7142857142857143
+    },
+    {
+      "source_id": "article_26",
+      "title": "The Indian messaging app that wants to take on Wha...",
+      "overall_accuracy": 0.625,
+      "thesis_score": 1.0,
+      "claims_score": 0.75,
+      "counter_score": 0.25,
+      "evidence_score": 0.5
+    },
+    {
+      "source_id": "article_28",
+      "title": "Hungary clings to Russian oil and gas as EU and NA...",
+      "overall_accuracy": 0.5,
+      "thesis_score": 1.0,
+      "claims_score": 0.5,
+      "counter_score": 0.0,
+      "evidence_score": 0.5
+    },
+    {
+      "source_id": "article_29",
+      "title": "NPR Public Editor",
+      "overall_accuracy": 0.5,
+      "thesis_score": 0.0,
+      "claims_score": 0.0,
+      "counter_score": 1.0,
+      "evidence_score": 1.0
+    },
+    {
+      "source_id": "article_30",
+      "title": "Stung By Twitter, Trump Signs Executive Order To W...",
+      "overall_accuracy": 0.3666666666666667,
+      "thesis_score": 0.5,
+      "claims_score": 0.4,
+      "counter_score": 0.16666666666666663,
+      "evidence_score": 0.4
+    },
+    {
+      "source_id": "article_31",
+      "title": "Councillor quits as deputy leader of Doncaster Ref...",
+      "overall_accuracy": 1.0,
+      "thesis_score": 1.0,
+      "claims_score": 1.0,
+      "counter_score": 1.0,
+      "evidence_score": 1.0
+    },
+    {
+      "source_id": "article_32",
+      "title": "Donors covering Farage security after cuts, Reform...",
+      "overall_accuracy": 0.42500000000000004,
+      "thesis_score": 0.5,
+      "claims_score": 0.4,
+      "counter_score": 0.4,
+      "evidence_score": 0.4
+    },
+    {
+      "source_id": "article_33",
+      "title": "College-reform bill could generate extra billions ...",
+      "overall_accuracy": 0.35,
+      "thesis_score": 1.0,
+      "claims_score": 0.4,
+      "counter_score": 0.0,
+      "evidence_score": 0.0
+    },
+    {
+      "source_id": "article_34",
+      "title": "Peru ordered to reform laws to curb illegal gold m...",
+      "overall_accuracy": 0.5583333333333333,
+      "thesis_score": 0.5,
+      "claims_score": 0.4,
+      "counter_score": 1.0,
+      "evidence_score": 0.33333333333333337
+    },
+    {
+      "source_id": "article_35",
+      "title": "Ady Barkan, health care activist, dies of ALS at 3...",
+      "overall_accuracy": 0.42142857142857143,
+      "thesis_score": 1.0,
+      "claims_score": 0.4,
+      "counter_score": 0.0,
+      "evidence_score": 0.2857142857142857
+    },
+    {
+      "source_id": "article_36",
+      "title": "Policing Reform, Civilian Oversight And More: Afte...",
+      "overall_accuracy": 0.5904761904761905,
+      "thesis_score": 1.0,
+      "claims_score": 0.6,
+      "counter_score": 0.33333333333333337,
+      "evidence_score": 0.4285714285714286
+    },
+    {
+      "source_id": "article_37",
+      "title": "Windows 10: When you should update and what it mea...",
+      "overall_accuracy": 0.6666666666666667,
+      "thesis_score": 0.5,
+      "claims_score": 1.0,
+      "counter_score": 0.5,
+      "evidence_score": 0.6666666666666667
+    },
+    {
+      "source_id": "article_38",
+      "title": "Trump tariffs on kitchen cabinets and timber come ...",
+      "overall_accuracy": 0.9166666666666667,
+      "thesis_score": 1.0,
+      "claims_score": 1.0,
+      "counter_score": 1.0,
+      "evidence_score": 0.6666666666666667
+    },
+    {
+      "source_id": "article_39",
+      "title": "Europe’s new cryptocurrency rules reshape digital ...",
+      "overall_accuracy": 0.7083333333333334,
+      "thesis_score": 1.0,
+      "claims_score": 0.6666666666666667,
+      "counter_score": 0.5,
+      "evidence_score": 0.6666666666666667
+    },
+    {
+      "source_id": "article_40",
+      "title": "SEC Chair Gary Gensler resigns as Trump takes offi...",
+      "overall_accuracy": 0.875,
+      "thesis_score": 1.0,
+      "claims_score": 1.0,
+      "counter_score": 0.5,
+      "evidence_score": 1.0
+    },
+    {
+      "source_id": "article_41",
+      "title": "How the tiny nation of Georgia became a Bitcoin be...",
+      "overall_accuracy": 0.75,
+      "thesis_score": 0.5,
+      "claims_score": 1.0,
+      "counter_score": 0.5,
+      "evidence_score": 1.0
+    },
+    {
+      "source_id": "article_42",
+      "title": "Georgia’s Bitcoin mining boom: energy, incentives,...",
+      "overall_accuracy": 0.7916666666666667,
+      "thesis_score": 0.5,
+      "claims_score": 1.0,
+      "counter_score": 1.0,
+      "evidence_score": 0.6666666666666667
+    },
+    {
+      "source_id": "article_43",
+      "title": "Georgia’s crypto regulations: legal clarity, tax p...",
+      "overall_accuracy": 0.875,
+      "thesis_score": 1.0,
+      "claims_score": 1.0,
+      "counter_score": 0.5,
+      "evidence_score": 1.0
+    },
+    {
+      "source_id": "article_44",
+      "title": "Bethany Black: Transsexual Comedian",
+      "overall_accuracy": 0.6666666666666667,
+      "thesis_score": 0.5,
+      "claims_score": 0.6666666666666667,
+      "counter_score": 0.5,
+      "evidence_score": 1.0
+    },
+    {
+      "source_id": "article_45",
+      "title": "Museum restoration in Snowdonia will put slate bac...",
+      "overall_accuracy": 0.7916666666666667,
+      "thesis_score": 1.0,
+      "claims_score": 1.0,
+      "counter_score": 0.5,
+      "evidence_score": 0.6666666666666667
+    },
+    {
+      "source_id": "article_46",
+      "title": "Trump administration offers unaccompanied migrant ...",
+      "overall_accuracy": 0.6666666666666667,
+      "thesis_score": 1.0,
+      "claims_score": 0.6666666666666667,
+      "counter_score": 0.0,
+      "evidence_score": 1.0
+    },
+    {
+      "source_id": "article_47",
+      "title": "Deportation error leaves asylum seeker imprisoned ...",
+      "overall_accuracy": 0.6041666666666667,
+      "thesis_score": 0.5,
+      "claims_score": 0.6666666666666667,
+      "counter_score": 0.5,
+      "evidence_score": 0.75
+    },
+    {
+      "source_id": "article_48",
+      "title": "Here’s how the economy is doing amid the continuin...",
+      "overall_accuracy": 0.7333333333333334,
+      "thesis_score": 1.0,
+      "claims_score": 1.0,
+      "counter_score": 0.33333333333333337,
+      "evidence_score": 0.6
+    },
+    {
+      "source_id": "article_49",
+      "title": "Tories would require English and Welsh education i...",
+      "overall_accuracy": 0.5833333333333334,
+      "thesis_score": 1.0,
+      "claims_score": 0.6666666666666667,
+      "counter_score": 0.0,
+      "evidence_score": 0.6666666666666667
+    },
+    {
+      "source_id": "article_50",
+      "title": "President Trump asks 9 colleges to commit to his p...",
+      "overall_accuracy": 0.7916666666666667,
+      "thesis_score": 1.0,
+      "claims_score": 0.6666666666666667,
+      "counter_score": 0.5,
+      "evidence_score": 1.0
+    },
+    {
+      "source_id": "article_51",
+      "title": "UNESCO nominates Egyptian as its new director foll...",
+      "overall_accuracy": 0.8541666666666667,
+      "thesis_score": 1.0,
+      "claims_score": 0.6666666666666667,
+      "counter_score": 1.0,
+      "evidence_score": 0.75
+    },
+    {
+      "source_id": "article_52",
+      "title": "Education Reform Is Becoming a Celebrity Cause",
+      "overall_accuracy": 0.9166666666666667,
+      "thesis_score": 1.0,
+      "claims_score": 1.0,
+      "counter_score": 1.0,
+      "evidence_score": 0.6666666666666667
+    },
+    {
+      "source_id": "article_53",
+      "title": "Toris pledge to cut bills as energy price battle t...",
+      "overall_accuracy": 0.5833333333333334,
+      "thesis_score": 1.0,
+      "claims_score": 0.6666666666666667,
+      "counter_score": 0.0,
+      "evidence_score": 0.6666666666666667
+    },
+    {
+      "source_id": "article_54",
+      "title": "Why don’t we use more geothermal energy?",
+      "overall_accuracy": 1.0,
+      "thesis_score": 1.0,
+      "claims_score": 1.0,
+      "counter_score": 1.0,
+      "evidence_score": 1.0
+    },
+    {
+      "source_id": "article_55",
+      "title": "US takes a stake in another company, this one is o...",
+      "overall_accuracy": 0.75,
+      "thesis_score": 0.5,
+      "claims_score": 1.0,
+      "counter_score": 0.5,
+      "evidence_score": 1.0
+    },
+    {
+      "source_id": "article_56",
+      "title": "Energy Department tells employees not to use words...",
+      "overall_accuracy": 0.8125,
+      "thesis_score": 1.0,
+      "claims_score": 0.75,
+      "counter_score": 0.5,
+      "evidence_score": 1.0
+    },
+    {
+      "source_id": "article_57",
+      "title": "Renewable Energy Growth Rate Up 45% Worldwide in 2...",
+      "overall_accuracy": 0.75,
+      "thesis_score": 1.0,
+      "claims_score": 1.0,
+      "counter_score": 0.0,
+      "evidence_score": 1.0
+    }
+  ]
+}

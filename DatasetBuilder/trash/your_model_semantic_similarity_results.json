@@ -1,0 +1,452 @@
+[
+  {
+    "source_id": "article_1",
+    "title": "Green Party leader Zack Polanski answers questions",
+    "overall_similarity": 0.2957837029049794,
+    "thesis_similarity": 0.23697149753570557,
+    "claims_similarity": 0.30258337408304214,
+    "counter_similarity": 0.3798071891069412,
+    "evidence_similarity": 0.26377275089422864
+  },
+  {
+    "source_id": "article_2",
+    "title": "Green Party leader Zack Polanski answers questions",
+    "overall_similarity": 0.28089973361541826,
+    "thesis_similarity": 0.39239487051963806,
+    "claims_similarity": 0.23308261732260385,
+    "counter_similarity": 0.10591902956366539,
+    "evidence_similarity": 0.3922024170557658
+  },
+  {
+    "source_id": "article_3",
+    "title": "Comedy and climate change: Michelle Wolf, David Pe",
+    "overall_similarity": 0.603709618250529,
+    "thesis_similarity": 0.7862510681152344,
+    "claims_similarity": 0.6210952003796896,
+    "counter_similarity": 0.49642667174339294,
+    "evidence_similarity": 0.5110655327637991
+  },
+  {
+    "source_id": "article_4",
+    "title": "Rupert Murdoch steps down as chairman of Fox News ",
+    "overall_similarity": 0.496234629303217,
+    "thesis_similarity": 0.6127838492393494,
+    "claims_similarity": 0.5938569804032644,
+    "counter_similarity": 0.3831309527158737,
+    "evidence_similarity": 0.3951667348543803
+  },
+  {
+    "source_id": "article_6",
+    "title": "Trump administration revives large coal sales from",
+    "overall_similarity": 0.3774120807647705,
+    "thesis_similarity": 0.7054145932197571,
+    "claims_similarity": 0.4369954665501912,
+    "counter_similarity": 0.0,
+    "evidence_similarity": 0.3672382632891337
+  },
+  {
+    "source_id": "article_7",
+    "title": "Light Years Ahead Of Their Elders, Young Republica",
+    "overall_similarity": 0.5388637793560823,
+    "thesis_similarity": 0.8101054430007935,
+    "claims_similarity": 0.7153387864430746,
+    "counter_similarity": 0.4457933008670807,
+    "evidence_similarity": 0.18421758711338043
+  },
+  {
+    "source_id": "article_8",
+    "title": "EPA says it will roll back climate rules. That cou",
+    "overall_similarity": 0.3772103066245715,
+    "thesis_similarity": 0.6447890996932983,
+    "claims_similarity": 0.4091693162918091,
+    "counter_similarity": 0.13121438026428223,
+    "evidence_similarity": 0.3236684302488963
+  },
+  {
+    "source_id": "article_9",
+    "title": "EPA’s climate rollback squeezes states",
+    "overall_similarity": 0.0880836135474965,
+    "thesis_similarity": 0.15448427200317383,
+    "claims_similarity": 0.029330171644687653,
+    "counter_similarity": 0.1563587412238121,
+    "evidence_similarity": 0.012161269318312407
+  },
+  {
+    "source_id": "article_10",
+    "title": "EPA proposes to rescind 2009 Endangerment Finding ",
+    "overall_similarity": 0.11688932000348964,
+    "thesis_similarity": 0.09465004503726959,
+    "claims_similarity": 0.05747292439142863,
+    "counter_similarity": 0.20314078032970428,
+    "evidence_similarity": 0.1122935302555561
+  },
+  {
+    "source_id": "article_11",
+    "title": "Trump administration to expand coal mining, delay ",
+    "overall_similarity": 0.33949202174941695,
+    "thesis_similarity": 0.7514581084251404,
+    "claims_similarity": 0.6065099785725275,
+    "counter_similarity": 0.0,
+    "evidence_similarity": 0.0
+  },
+  {
+    "source_id": "article_12",
+    "title": "Former Cisco Systems CEO John Chambers talks AI an",
+    "overall_similarity": 0.3805149014418324,
+    "thesis_similarity": 0.6563186645507812,
+    "claims_similarity": 0.40492765108744305,
+    "counter_similarity": 0.4174838364124298,
+    "evidence_similarity": 0.04332945371667544
+  },
+  {
+    "source_id": "article_13",
+    "title": "Elon Musk Warns Governors: Artificial Intelligence",
+    "overall_similarity": 0.494632459183534,
+    "thesis_similarity": 0.4485204219818115,
+    "claims_similarity": 0.6209858417510986,
+    "counter_similarity": 0.5032623633742332,
+    "evidence_similarity": 0.4057612096269925
+  },
+  {
+    "source_id": "article_16",
+    "title": "BBC Green Sport Awards 2025 winners announced",
+    "overall_similarity": 0.47595747373998165,
+    "thesis_similarity": 0.5603697001934052,
+    "claims_similarity": 0.41374877989292147,
+    "counter_similarity": 0.5104333162307739,
+    "evidence_similarity": 0.41927809864282606
+  },
+  {
+    "source_id": "article_17",
+    "title": "Indonesia's clean energy future is at the center o",
+    "overall_similarity": 0.4397437234143061,
+    "thesis_similarity": 0.5792835056781769,
+    "claims_similarity": 0.48764224563326153,
+    "counter_similarity": 0.5195954144001007,
+    "evidence_similarity": 0.1724537279456854
+  },
+  {
+    "source_id": "article_18",
+    "title": "Hyundai gets $1.8B in aid to build electric cars i",
+    "overall_similarity": 0.3212458075999859,
+    "thesis_similarity": 0.5339188873767853,
+    "claims_similarity": 0.4122728854417801,
+    "counter_similarity": 0.3010826011498769,
+    "evidence_similarity": 0.03770885643150125
+  },
+  {
+    "source_id": "article_20",
+    "title": "U.K. Bans Gas And Diesel Cars Starting 2040: Elect",
+    "overall_similarity": 0.5256859281410773,
+    "thesis_similarity": 0.6358250379562378,
+    "claims_similarity": 0.6168051511049271,
+    "counter_similarity": 0.3460989495118459,
+    "evidence_similarity": 0.5040145739912987
+  },
+  {
+    "source_id": "article_21",
+    "title": "The people who hate working from home",
+    "overall_similarity": 0.430510271021298,
+    "thesis_similarity": 0.5770741105079651,
+    "claims_similarity": 0.4619381308555603,
+    "counter_similarity": 0.4524413049221039,
+    "evidence_similarity": 0.23058753779956273
+  },
+  {
+    "source_id": "article_22",
+    "title": "Moonlighting: The controversy among India's tech w",
+    "overall_similarity": 0.2944071380059338,
+    "thesis_similarity": 0.5623053163290024,
+    "claims_similarity": 0.26914114380876225,
+    "counter_similarity": 0.31896230205893517,
+    "evidence_similarity": 0.02721978982703553
+  },
+  {
+    "source_id": "article_23",
+    "title": "A 16th-century Spanish explorer claimed this Flori",
+    "overall_similarity": 0.2033408150076866,
+    "thesis_similarity": 0.4950208365917206,
+    "claims_similarity": 0.31834242343902586,
+    "counter_similarity": 0.0,
+    "evidence_similarity": 0.0
+  },
+  {
+    "source_id": "article_26",
+    "title": "The Indian messaging app that wants to take on Wha",
+    "overall_similarity": 0.4603676323313266,
+    "thesis_similarity": 0.6234797835350037,
+    "claims_similarity": 0.4981480557471514,
+    "counter_similarity": 0.22507987450808287,
+    "evidence_similarity": 0.4947628155350685
+  },
+  {
+    "source_id": "article_28",
+    "title": "Hungary clings to Russian oil and gas as EU and NA",
+    "overall_similarity": 0.30247665010392666,
+    "thesis_similarity": 0.5205957889556885,
+    "claims_similarity": 0.619314432144165,
+    "counter_similarity": 0.0,
+    "evidence_similarity": 0.06999637931585312
+  },
+  {
+    "source_id": "article_29",
+    "title": "",
+    "overall_similarity": 0.0,
+    "thesis_similarity": 0.0,
+    "claims_similarity": 0.0,
+    "counter_similarity": 0.0,
+    "evidence_similarity": 0.0
+  },
+  {
+    "source_id": "article_30",
+    "title": "Stung By Twitter, Trump Signs Executive Order To W",
+    "overall_similarity": 0.4977478964875142,
+    "thesis_similarity": 0.6570837497711182,
+    "claims_similarity": 0.3807313024997711,
+    "counter_similarity": 0.3441661174098651,
+    "evidence_similarity": 0.6090104162693024
+  },
+  {
+    "source_id": "article_31",
+    "title": "Councillor quits as deputy leader of Doncaster Ref",
+    "overall_similarity": 0.411779772490263,
+    "thesis_similarity": 0.5674524903297424,
+    "claims_similarity": 0.4741189479827881,
+    "counter_similarity": 0.11566162109375,
+    "evidence_similarity": 0.4898860305547714
+  },
+  {
+    "source_id": "article_32",
+    "title": "Donors covering Farage security after cuts, Reform",
+    "overall_similarity": 0.547564060240984,
+    "thesis_similarity": 0.7292011976242065,
+    "claims_similarity": 0.5105118483304978,
+    "counter_similarity": 0.534574443101883,
+    "evidence_similarity": 0.4159687519073486
+  },
+  {
+    "source_id": "article_33",
+    "title": "College-reform bill could generate extra billions ",
+    "overall_similarity": 0.2300788789987564,
+    "thesis_similarity": 0.45322081446647644,
+    "claims_similarity": 0.4670947015285492,
+    "counter_similarity": 0.0,
+    "evidence_similarity": 0.0
+  },
+  {
+    "source_id": "article_34",
+    "title": "Peru ordered to reform laws to curb illegal gold m",
+    "overall_similarity": 0.5574774976819754,
+    "thesis_similarity": 0.8150058388710022,
+    "claims_similarity": 0.4649056613445282,
+    "counter_similarity": 0.5206878185272217,
+    "evidence_similarity": 0.4293106719851494
+  },
+  {
+    "source_id": "article_35",
+    "title": "Ady Barkan, health care activist, dies of ALS at 3",
+    "overall_similarity": 0.28593208217727284,
+    "thesis_similarity": 0.5626601576805115,
+    "claims_similarity": 0.3691534161567688,
+    "counter_similarity": 0.0,
+    "evidence_similarity": 0.2119147548718112
+  },
+  {
+    "source_id": "article_36",
+    "title": "Policing Reform, Civilian Oversight And More: Afte",
+    "overall_similarity": 0.36390947044960087,
+    "thesis_similarity": 0.6469586491584778,
+    "claims_similarity": 0.3822513818740845,
+    "counter_similarity": 0.12961257249116898,
+    "evidence_similarity": 0.29681527827467236
+  },
+  {
+    "source_id": "article_37",
+    "title": "Windows 10: When you should update and what it mea",
+    "overall_similarity": 0.19294161659975848,
+    "thesis_similarity": 0.3060215711593628,
+    "claims_similarity": 0.19793178141117096,
+    "counter_similarity": 0.17349209636449814,
+    "evidence_similarity": 0.09432101746400197
+  },
+  {
+    "source_id": "article_38",
+    "title": "Trump tariffs on kitchen cabinets and timber come ",
+    "overall_similarity": 0.18866767920553681,
+    "thesis_similarity": 0.11915512382984161,
+    "claims_similarity": 0.2816203733285268,
+    "counter_similarity": 0.14689438790082932,
+    "evidence_similarity": 0.20700083176294962
+  },
+  {
+    "source_id": "article_39",
+    "title": "Europe’s new cryptocurrency rules reshape digital ",
+    "overall_similarity": 0.41272215048472083,
+    "thesis_similarity": 0.5228840708732605,
+    "claims_similarity": 0.39151113231976825,
+    "counter_similarity": 0.49169494211673737,
+    "evidence_similarity": 0.24479845662911734
+  },
+  {
+    "source_id": "article_40",
+    "title": "SEC Chair Gary Gensler resigns as Trump takes offi",
+    "overall_similarity": 0.45151782470444835,
+    "thesis_similarity": 0.5408821105957031,
+    "claims_similarity": 0.36247362693150836,
+    "counter_similarity": 0.362450547516346,
+    "evidence_similarity": 0.5402650137742361
+  },
+  {
+    "source_id": "article_41",
+    "title": "How the tiny nation of Georgia became a Bitcoin be",
+    "overall_similarity": 0.4333001244813204,
+    "thesis_similarity": 0.762211799621582,
+    "claims_similarity": 0.49547608693440753,
+    "counter_similarity": 0.19944635778665543,
+    "evidence_similarity": 0.27606625358263653
+  },
+  {
+    "source_id": "article_42",
+    "title": "Georgia’s Bitcoin mining boom: energy, incentives,",
+    "overall_similarity": 0.12650041313221058,
+    "thesis_similarity": 0.20089277625083923,
+    "claims_similarity": 0.07661639899015427,
+    "counter_similarity": 0.19357693195343018,
+    "evidence_similarity": 0.03491554533441862
+  },
+  {
+    "source_id": "article_43",
+    "title": "Georgia’s crypto regulations: legal clarity, tax p",
+    "overall_similarity": 0.023917027283459902,
+    "thesis_similarity": 0.016094209626317024,
+    "claims_similarity": 0.03992332021395365,
+    "counter_similarity": 0.0,
+    "evidence_similarity": 0.03965057929356893
+  },
+  {
+    "source_id": "article_44",
+    "title": "Bethany Black: Transsexual Comedian",
+    "overall_similarity": 0.2154783702765902,
+    "thesis_similarity": 0.3138599991798401,
+    "claims_similarity": 0.27826349437236786,
+    "counter_similarity": 0.09723709151148796,
+    "evidence_similarity": 0.17255289604266486
+  },
+  {
+    "source_id": "article_45",
+    "title": "Museum restoration in Snowdonia will put slate bac",
+    "overall_similarity": 0.5170611590147018,
+    "thesis_similarity": 0.8931480050086975,
+    "claims_similarity": 0.46494326988856,
+    "counter_similarity": 0.33699116110801697,
+    "evidence_similarity": 0.3731622000535329
+  },
+  {
+    "source_id": "article_46",
+    "title": "Trump administration offers unaccompanied migrant ",
+    "overall_similarity": 0.24970330794652304,
+    "thesis_similarity": 0.45614004135131836,
+    "claims_similarity": 0.3377951979637146,
+    "counter_similarity": 0.0,
+    "evidence_similarity": 0.20487799247105917
+  },
+  {
+    "source_id": "article_47",
+    "title": "Deportation error leaves asylum seeker imprisoned ",
+    "overall_similarity": 0.5873495427270731,
+    "thesis_similarity": 0.7127963900566101,
+    "claims_similarity": 0.5509210228919983,
+    "counter_similarity": 0.3965510278940201,
+    "evidence_similarity": 0.6891297300656637
+  },
+  {
+    "source_id": "article_48",
+    "title": "Here’s how the economy is doing amid the continuin",
+    "overall_similarity": 0.4450601438681285,
+    "thesis_similarity": 0.673369288444519,
+    "claims_similarity": 0.2770475745201111,
+    "counter_similarity": 0.47540796796480816,
+    "evidence_similarity": 0.35441574454307556
+  },
+  {
+    "source_id": "article_49",
+    "title": "Tories would require English and Welsh education i",
+    "overall_similarity": 0.023875267089655004,
+    "thesis_similarity": 0.04816655442118645,
+    "claims_similarity": 0.018137692163387936,
+    "counter_similarity": 0.0,
+    "evidence_similarity": 0.029196821774045627
+  },
+  {
+    "source_id": "article_50",
+    "title": "President Trump asks 9 colleges to commit to his p",
+    "overall_similarity": 0.15696526287744444,
+    "thesis_similarity": 0.052266303449869156,
+    "claims_similarity": 0.16739643116792044,
+    "counter_similarity": 0.1250743418931961,
+    "evidence_similarity": 0.283123974998792
+  },
+  {
+    "source_id": "article_51",
+    "title": "UNESCO nominates Egyptian as its new director foll",
+    "overall_similarity": 0.1433869938676556,
+    "thesis_similarity": 0.04262518510222435,
+    "claims_similarity": 0.16020042449235916,
+    "counter_similarity": 0.1893232837319374,
+    "evidence_similarity": 0.18139908214410147
+  },
+  {
+    "source_id": "article_52",
+    "title": "Education Reform Is Becoming a Celebrity Cause",
+    "overall_similarity": 0.2948956775168578,
+    "thesis_similarity": 0.19807937741279602,
+    "claims_similarity": 0.32234907150268555,
+    "counter_similarity": 0.42541931569576263,
+    "evidence_similarity": 0.23373494545618692
+  },
+  {
+    "source_id": "article_53",
+    "title": "Toris pledge to cut bills as energy price battle t",
+    "overall_similarity": 0.053868167102336884,
+    "thesis_similarity": 0.06746431440114975,
+    "claims_similarity": 0.07788061102231343,
+    "counter_similarity": 0.0,
+    "evidence_similarity": 0.07012774298588435
+  },
+  {
+    "source_id": "article_54",
+    "title": "Why don’t we use more geothermal energy?",
+    "overall_similarity": 0.034005824786921345,
+    "thesis_similarity": 0.05610407516360283,
+    "claims_similarity": 0.012089235708117485,
+    "counter_similarity": 0.03360949084162712,
+    "evidence_similarity": 0.034220497434337936
+  },
+  {
+    "source_id": "article_55",
+    "title": "US takes a stake in another company, this one is o",
+    "overall_similarity": 0.25949947349727154,
+    "thesis_similarity": 0.3276788890361786,
+    "claims_similarity": 0.29906590779622394,
+    "counter_similarity": 0.1887439712882042,
+    "evidence_similarity": 0.2225091258684794
+  },
+  {
+    "source_id": "article_56",
+    "title": "Energy Department tells employees not to use words",
+    "overall_similarity": 0.24134980017940202,
+    "thesis_similarity": 0.29351842403411865,
+    "claims_similarity": 0.22018318871657053,
+    "counter_similarity": 0.25739193707704544,
+    "evidence_similarity": 0.1943056508898735
+  },
+  {
+    "source_id": "article_57",
+    "title": "Renewable Energy Growth Rate Up 45% Worldwide in 2",
+    "overall_similarity": 0.2241488763441642,
+    "thesis_similarity": 0.2511865198612213,
+    "claims_similarity": 0.3500626012682915,
+    "counter_similarity": 0.0,
+    "evidence_similarity": 0.29534638424714404
+  }
+]

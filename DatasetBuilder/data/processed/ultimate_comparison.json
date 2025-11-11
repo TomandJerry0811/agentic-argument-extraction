@@ -1,0 +1,191 @@
+{
+  "Static: Gemma2 Baseline": {
+    "thesis": 0.46168717296551104,
+    "supporting_claims": 0.39720015378572976,
+    "counterarguments": 0.16931059745450816,
+    "evidence": 0.379446765229304,
+    "overall": 0.35191117235876324
+  },
+  "Static: Gemma2 Chain Of Thought": {
+    "thesis": 0.4939000434787112,
+    "supporting_claims": 0.40662571537330106,
+    "counterarguments": 0.15973293776260622,
+    "evidence": 0.35481905296526045,
+    "overall": 0.35376943739496974
+  },
+  "Static: Gemma2 Contrastive": {
+    "thesis": 0.4626835667890393,
+    "supporting_claims": 0.37591375772560404,
+    "counterarguments": 0.22658778436206006,
+    "evidence": 0.3734873573114271,
+    "overall": 0.3596681165470327
+  },
+  "Static: Gemma2 Few Shot": {
+    "thesis": 0.4654083863715641,
+    "supporting_claims": 0.3946844298891457,
+    "counterarguments": 0.13844198380183015,
+    "evidence": 0.2425725384850964,
+    "overall": 0.3102768346369091
+  },
+  "Static: Gemma2 Recursive": {
+    "thesis": 0.5035747131526781,
+    "supporting_claims": 0.415481068955532,
+    "counterarguments": 0.2256357431062497,
+    "evidence": 0.3569594524914113,
+    "overall": 0.37541274442646777
+  },
+  "Static: Gemma2 Role Based": {
+    "thesis": 0.4580825388168349,
+    "supporting_claims": 0.37256994878653416,
+    "counterarguments": 0.1752984291293483,
+    "evidence": 0.3488984036651743,
+    "overall": 0.33871233009947294
+  },
+  "Static: Gemma2 Structured Output": {
+    "thesis": 0.4587378080864932,
+    "supporting_claims": 0.37237944249686494,
+    "counterarguments": 0.15684120548981512,
+    "evidence": 0.29712837498826283,
+    "overall": 0.32127170776535907
+  },
+  "Static: Llama3.1 Baseline": {
+    "thesis": 0.4805413801636961,
+    "supporting_claims": 0.39698497767082197,
+    "counterarguments": 0.2771497517658605,
+    "evidence": 0.31277705063501365,
+    "overall": 0.36686329005884805
+  },
+  "Static: Llama3.1 Chain Of Thought": {
+    "thesis": 0.48993764009459745,
+    "supporting_claims": 0.4217537287365046,
+    "counterarguments": 0.34638866486530456,
+    "evidence": 0.34226728986022337,
+    "overall": 0.40008683088915753
+  },
+  "Static: Llama3.1 Contrastive": {
+    "thesis": 0.37957299330404826,
+    "supporting_claims": 0.34508888743564387,
+    "counterarguments": 0.25256980476634844,
+    "evidence": 0.3166857421850519,
+    "overall": 0.32347935692277313
+  },
+  "Static: Llama3.1 Few Shot": {
+    "thesis": 0.3743566336466911,
+    "supporting_claims": 0.2822746991714899,
+    "counterarguments": 0.1537943203715568,
+    "evidence": 0.13682483333272735,
+    "overall": 0.23681262163061628
+  },
+  "Static: Llama3.1 Recursive": {
+    "thesis": 0.4469611157825136,
+    "supporting_claims": 0.39330790274483435,
+    "counterarguments": 0.17323573185805827,
+    "evidence": 0.21974416003248215,
+    "overall": 0.3083122276044721
+  },
+  "Static: Llama3.1 Role Based": {
+    "thesis": 0.4627365808280066,
+    "supporting_claims": 0.4019719275003327,
+    "counterarguments": 0.3032836195636303,
+    "evidence": 0.35534602251051756,
+    "overall": 0.3808345376006218
+  },
+  "Static: Llama3.1 Structured Output": {
+    "thesis": 0.4385924731411607,
+    "supporting_claims": 0.41335723570299265,
+    "counterarguments": 0.31360864576654157,
+    "evidence": 0.33176793750630035,
+    "overall": 0.3743315730292488
+  },
+  "Static: Llama3.2 Baseline": {
+    "thesis": 0.4634835754135033,
+    "supporting_claims": 0.3785164063683366,
+    "counterarguments": 0.294179880666751,
+    "evidence": 0.3163013201682139,
+    "overall": 0.36312029565420123
+  },
+  "Static: Llama3.2 Chain Of Thought": {
+    "thesis": 0.46602174932403223,
+    "supporting_claims": 0.432736259845852,
+    "counterarguments": 0.2549987317195961,
+    "evidence": 0.30388916560623996,
+    "overall": 0.3644114766239301
+  },
+  "Static: Llama3.2 Contrastive": {
+    "thesis": 0.4965491020602399,
+    "supporting_claims": 0.43963496990391765,
+    "counterarguments": 0.3165630069293682,
+    "evidence": 0.3284605578744206,
+    "overall": 0.3953019091919866
+  },
+  "Static: Llama3.2 Few Shot": {
+    "thesis": 0.0,
+    "supporting_claims": 0.06817220804699953,
+    "counterarguments": 0.23170910115687823,
+    "evidence": 0.05284115800529903,
+    "overall": 0.0881806168022942
+  },
+  "Static: Llama3.2 Recursive": {
+    "thesis": 0.4438212758395821,
+    "supporting_claims": 0.40202433145469524,
+    "counterarguments": 0.3231341661367979,
+    "evidence": 0.32475781068008724,
+    "overall": 0.3734343960277906
+  },
+  "Static: Llama3.2 Role Based": {
+    "thesis": 0.4564752203988887,
+    "supporting_claims": 0.40932665563161047,
+    "counterarguments": 0.20819456300713005,
+    "evidence": 0.3448094852852972,
+    "overall": 0.35470148108073163
+  },
+  "Static: Llama3.2 Structured Output": {
+    "thesis": 0.4602037881217573,
+    "supporting_claims": 0.39554979555659747,
+    "counterarguments": 0.34488582843239757,
+    "evidence": 0.29291776131434927,
+    "overall": 0.3733892933562754
+  },
+  "Agentic: Gemma2 Multi Agent": {
+    "thesis": 0.5292279561205456,
+    "supporting_claims": 0.4533547637525887,
+    "counterarguments": 0.24346016538070722,
+    "evidence": 0.4107073195683943,
+    "overall": 0.40918755120555894
+  },
+  "Agentic: Gemma2 React Agent": {
+    "thesis": 0.491033255122602,
+    "supporting_claims": 0.4019668834703875,
+    "counterarguments": 0.1598627877971416,
+    "evidence": 0.3726542649267084,
+    "overall": 0.3563792978292099
+  },
+  "Agentic: Llama3.1 Multi Agent": {
+    "thesis": 0.5038216431081916,
+    "supporting_claims": 0.4621657428405587,
+    "counterarguments": 0.3760404132875717,
+    "evidence": 0.3827246458378064,
+    "overall": 0.43118811126853207
+  },
+  "Agentic: Llama3.1 React Agent": {
+    "thesis": 0.46308700724815327,
+    "supporting_claims": 0.3926104130793459,
+    "counterarguments": 0.2846126879617158,
+    "evidence": 0.32146767145644867,
+    "overall": 0.36544444493641587
+  },
+  "Agentic: Llama3.2 Multi Agent": {
+    "thesis": 0.4701509698643349,
+    "supporting_claims": 0.4056575489662853,
+    "counterarguments": 0.3730667596327395,
+    "evidence": 0.3094449221800209,
+    "overall": 0.3895800501608451
+  },
+  "Agentic: Llama3.2 React Agent": {
+    "thesis": 0.3033845180956026,
+    "supporting_claims": 0.2814098311826542,
+    "counterarguments": 0.1587517957410051,
+    "evidence": 0.2126658223159168,
+    "overall": 0.23905299183379466
+  }
+}

@@ -1,0 +1,1162 @@
+[
+  {
+    "source_id": "article_1",
+    "model": "llama3.1",
+    "article_type": "debate_heavy",
+    "attempt": 1,
+    "strategy_chosen": "baseline",
+    "quality_score": 1.0
+  },
+  {
+    "source_id": "article_1",
+    "model": "llama3.2",
+    "article_type": "debate_heavy",
+    "attempt": 1,
+    "strategy_chosen": "contrastive",
+    "quality_score": 1.0
+  },
+  {
+    "source_id": "article_1",
+    "model": "gemma2",
+    "article_type": "debate_heavy",
+    "attempt": 1,
+    "strategy_chosen": "chain_of_thought",
+    "quality_score": 1.0
+  },
+  {
+    "source_id": "article_2",
+    "model": "llama3.1",
+    "article_type": "debate_heavy",
+    "attempt": 1,
+    "strategy_chosen": "baseline",
+    "quality_score": 1.0
+  },
+  {
+    "source_id": "article_2",
+    "model": "llama3.2",
+    "article_type": "debate_heavy",
+    "attempt": 2,
+    "strategy_chosen": "chain_of_thought",
+    "quality_score": 0.0
+  },
+  {
+    "source_id": "article_2",
+    "model": "gemma2",
+    "article_type": "debate_heavy",
+    "attempt": 2,
+    "strategy_chosen": "chain_of_thought",
+    "quality_score": 1.0
+  },
+  {
+    "source_id": "article_3",
+    "model": "llama3.1",
+    "article_type": "debate_heavy",
+    "attempt": 1,
+    "strategy_chosen": "baseline",
+    "quality_score": 1.0
+  },
+  {
+    "source_id": "article_3",
+    "model": "llama3.2",
+    "article_type": "debate_heavy",
+    "attempt": 2,
+    "strategy_chosen": "chain_of_thought",
+    "quality_score": 0.0
+  },
+  {
+    "source_id": "article_3",
+    "model": "gemma2",
+    "article_type": "debate_heavy",
+    "attempt": 1,
+    "strategy_chosen": "chain_of_thought",
+    "quality_score": 1.0
+  },
+  {
+    "source_id": "article_4",
+    "model": "llama3.1",
+    "article_type": "debate_heavy",
+    "attempt": 1,
+    "strategy_chosen": "baseline",
+    "quality_score": 1.0
+  },
+  {
+    "source_id": "article_4",
+    "model": "llama3.2",
+    "article_type": "debate_heavy",
+    "attempt": 1,
+    "strategy_chosen": "chain_of_thought",
+    "quality_score": 1.0
+  },
+  {
+    "source_id": "article_4",
+    "model": "gemma2",
+    "article_type": "debate_heavy",
+    "attempt": 1,
+    "strategy_chosen": "chain_of_thought",
+    "quality_score": 1.0
+  },
+  {
+    "source_id": "article_6",
+    "model": "llama3.1",
+    "article_type": "evidence_heavy",
+    "attempt": 1,
+    "strategy_chosen": "baseline",
+    "quality_score": 1.0
+  },
+  {
+    "source_id": "article_6",
+    "model": "llama3.2",
+    "article_type": "evidence_heavy",
+    "attempt": 1,
+    "strategy_chosen": "chain_of_thought",
+    "quality_score": 1.0
+  },
+  {
+    "source_id": "article_6",
+    "model": "gemma2",
+    "article_type": "evidence_heavy",
+    "attempt": 1,
+    "strategy_chosen": "chain_of_thought",
+    "quality_score": 1.0
+  },
+  {
+    "source_id": "article_7",
+    "model": "llama3.1",
+    "article_type": "complex",
+    "attempt": 2,
+    "strategy_chosen": "chain_of_thought",
+    "quality_score": 1.0
+  },
+  {
+    "source_id": "article_7",
+    "model": "llama3.2",
+    "article_type": "complex",
+    "attempt": 2,
+    "strategy_chosen": "chain_of_thought",
+    "quality_score": 0.0
+  },
+  {
+    "source_id": "article_7",
+    "model": "gemma2",
+    "article_type": "complex",
+    "attempt": 1,
+    "strategy_chosen": "chain_of_thought",
+    "quality_score": 1.0
+  },
+  {
+    "source_id": "article_8",
+    "model": "llama3.1",
+    "article_type": "debate_heavy",
+    "attempt": 1,
+    "strategy_chosen": "baseline",
+    "quality_score": 1.0
+  },
+  {
+    "source_id": "article_8",
+    "model": "llama3.2",
+    "article_type": "debate_heavy",
+    "attempt": 1,
+    "strategy_chosen": "chain_of_thought",
+    "quality_score": 1.0
+  },
+  {
+    "source_id": "article_8",
+    "model": "gemma2",
+    "article_type": "debate_heavy",
+    "attempt": 1,
+    "strategy_chosen": "chain_of_thought",
+    "quality_score": 1.0
+  },
+  {
+    "source_id": "article_9",
+    "model": "llama3.1",
+    "article_type": "debate_heavy",
+    "attempt": 1,
+    "strategy_chosen": "baseline",
+    "quality_score": 1.0
+  },
+  {
+    "source_id": "article_9",
+    "model": "llama3.2",
+    "article_type": "debate_heavy",
+    "attempt": 1,
+    "strategy_chosen": "chain_of_thought",
+    "quality_score": 1.0
+  },
+  {
+    "source_id": "article_9",
+    "model": "gemma2",
+    "article_type": "debate_heavy",
+    "attempt": 1,
+    "strategy_chosen": "chain_of_thought",
+    "quality_score": 1.0
+  },
+  {
+    "source_id": "article_10",
+    "model": "llama3.1",
+    "article_type": "debate_heavy",
+    "attempt": 1,
+    "strategy_chosen": "baseline",
+    "quality_score": 1.0
+  },
+  {
+    "source_id": "article_10",
+    "model": "llama3.2",
+    "article_type": "debate_heavy",
+    "attempt": 1,
+    "strategy_chosen": "chain_of_thought",
+    "quality_score": 1.0
+  },
+  {
+    "source_id": "article_10",
+    "model": "gemma2",
+    "article_type": "debate_heavy",
+    "attempt": 1,
+    "strategy_chosen": "chain_of_thought",
+    "quality_score": 1.0
+  },
+  {
+    "source_id": "article_11",
+    "model": "llama3.1",
+    "article_type": "simple",
+    "attempt": 1,
+    "strategy_chosen": "baseline",
+    "quality_score": 1.0
+  },
+  {
+    "source_id": "article_11",
+    "model": "llama3.2",
+    "article_type": "simple",
+    "attempt": 1,
+    "strategy_chosen": "chain_of_thought",
+    "quality_score": 1.0
+  },
+  {
+    "source_id": "article_11",
+    "model": "gemma2",
+    "article_type": "simple",
+    "attempt": 1,
+    "strategy_chosen": "baseline",
+    "quality_score": 1.0
+  },
+  {
+    "source_id": "article_12",
+    "model": "llama3.1",
+    "article_type": "debate_heavy",
+    "attempt": 1,
+    "strategy_chosen": "baseline",
+    "quality_score": 1.0
+  },
+  {
+    "source_id": "article_12",
+    "model": "llama3.2",
+    "article_type": "debate_heavy",
+    "attempt": 1,
+    "strategy_chosen": "chain_of_thought",
+    "quality_score": 1.0
+  },
+  {
+    "source_id": "article_12",
+    "model": "gemma2",
+    "article_type": "debate_heavy",
+    "attempt": 1,
+    "strategy_chosen": "chain_of_thought",
+    "quality_score": 1.0
+  },
+  {
+    "source_id": "article_13",
+    "model": "llama3.1",
+    "article_type": "complex",
+    "attempt": 1,
+    "strategy_chosen": "chain_of_thought",
+    "quality_score": 1.0
+  },
+  {
+    "source_id": "article_13",
+    "model": "llama3.2",
+    "article_type": "complex",
+    "attempt": 2,
+    "strategy_chosen": "chain_of_thought",
+    "quality_score": 1.0
+  },
+  {
+    "source_id": "article_13",
+    "model": "gemma2",
+    "article_type": "complex",
+    "attempt": 1,
+    "strategy_chosen": "chain_of_thought",
+    "quality_score": 1.0
+  },
+  {
+    "source_id": "article_16",
+    "model": "llama3.1",
+    "article_type": "simple",
+    "attempt": 1,
+    "strategy_chosen": "baseline",
+    "quality_score": 1.0
+  },
+  {
+    "source_id": "article_16",
+    "model": "llama3.2",
+    "article_type": "simple",
+    "attempt": 1,
+    "strategy_chosen": "chain_of_thought",
+    "quality_score": 0.6000000000000001
+  },
+  {
+    "source_id": "article_16",
+    "model": "gemma2",
+    "article_type": "simple",
+    "attempt": 1,
+    "strategy_chosen": "baseline",
+    "quality_score": 1.0
+  },
+  {
+    "source_id": "article_17",
+    "model": "llama3.1",
+    "article_type": "debate_heavy",
+    "attempt": 1,
+    "strategy_chosen": "baseline",
+    "quality_score": 1.0
+  },
+  {
+    "source_id": "article_17",
+    "model": "llama3.2",
+    "article_type": "debate_heavy",
+    "attempt": 1,
+    "strategy_chosen": "chain_of_thought",
+    "quality_score": 1.0
+  },
+  {
+    "source_id": "article_17",
+    "model": "gemma2",
+    "article_type": "debate_heavy",
+    "attempt": 1,
+    "strategy_chosen": "chain_of_thought",
+    "quality_score": 1.0
+  },
+  {
+    "source_id": "article_18",
+    "model": "llama3.1",
+    "article_type": "debate_heavy",
+    "attempt": 1,
+    "strategy_chosen": "baseline",
+    "quality_score": 1.0
+  },
+  {
+    "source_id": "article_18",
+    "model": "llama3.2",
+    "article_type": "debate_heavy",
+    "attempt": 2,
+    "strategy_chosen": "chain_of_thought",
+    "quality_score": 0.0
+  },
+  {
+    "source_id": "article_18",
+    "model": "gemma2",
+    "article_type": "debate_heavy",
+    "attempt": 1,
+    "strategy_chosen": "chain_of_thought",
+    "quality_score": 1.0
+  },
+  {
+    "source_id": "article_20",
+    "model": "llama3.1",
+    "article_type": "complex",
+    "attempt": 1,
+    "strategy_chosen": "baseline",
+    "quality_score": 1.0
+  },
+  {
+    "source_id": "article_20",
+    "model": "llama3.2",
+    "article_type": "complex",
+    "attempt": 2,
+    "strategy_chosen": "chain_of_thought",
+    "quality_score": 0.0
+  },
+  {
+    "source_id": "article_20",
+    "model": "gemma2",
+    "article_type": "complex",
+    "attempt": 1,
+    "strategy_chosen": "chain_of_thought",
+    "quality_score": 1.0
+  },
+  {
+    "source_id": "article_21",
+    "model": "llama3.1",
+    "article_type": "complex",
+    "attempt": 1,
+    "strategy_chosen": "baseline",
+    "quality_score": 1.0
+  },
+  {
+    "source_id": "article_21",
+    "model": "llama3.2",
+    "article_type": "complex",
+    "attempt": 2,
+    "strategy_chosen": "chain_of_thought",
+    "quality_score": 0.0
+  },
+  {
+    "source_id": "article_21",
+    "model": "gemma2",
+    "article_type": "complex",
+    "attempt": 1,
+    "strategy_chosen": "chain_of_thought",
+    "quality_score": 1.0
+  },
+  {
+    "source_id": "article_22",
+    "model": "llama3.1",
+    "article_type": "complex",
+    "attempt": 1,
+    "strategy_chosen": "chain_of_thought",
+    "quality_score": 1.0
+  },
+  {
+    "source_id": "article_22",
+    "model": "llama3.2",
+    "article_type": "complex",
+    "attempt": 1,
+    "strategy_chosen": "chain_of_thought",
+    "quality_score": 1.0
+  },
+  {
+    "source_id": "article_22",
+    "model": "gemma2",
+    "article_type": "complex",
+    "attempt": 1,
+    "strategy_chosen": "chain_of_thought",
+    "quality_score": 1.0
+  },
+  {
+    "source_id": "article_23",
+    "model": "llama3.1",
+    "article_type": "simple",
+    "attempt": 1,
+    "strategy_chosen": "baseline",
+    "quality_score": 1.0
+  },
+  {
+    "source_id": "article_23",
+    "model": "llama3.2",
+    "article_type": "simple",
+    "attempt": 1,
+    "strategy_chosen": "chain_of_thought",
+    "quality_score": 0.2
+  },
+  {
+    "source_id": "article_23",
+    "model": "llama3.2",
+    "article_type": "simple",
+    "attempt": 2,
+    "strategy_chosen": "chain_of_thought",
+    "quality_score": 1.0
+  },
+  {
+    "source_id": "article_23",
+    "model": "gemma2",
+    "article_type": "simple",
+    "attempt": 1,
+    "strategy_chosen": "baseline",
+    "quality_score": 1.0
+  },
+  {
+    "source_id": "article_26",
+    "model": "llama3.1",
+    "article_type": "debate_heavy",
+    "attempt": 1,
+    "strategy_chosen": "baseline",
+    "quality_score": 1.0
+  },
+  {
+    "source_id": "article_26",
+    "model": "llama3.2",
+    "article_type": "debate_heavy",
+    "attempt": 2,
+    "strategy_chosen": "chain_of_thought",
+    "quality_score": 1.0
+  },
+  {
+    "source_id": "article_26",
+    "model": "gemma2",
+    "article_type": "debate_heavy",
+    "attempt": 2,
+    "strategy_chosen": "chain_of_thought",
+    "quality_score": 1.0
+  },
+  {
+    "source_id": "article_28",
+    "model": "llama3.1",
+    "article_type": "debate_heavy",
+    "attempt": 1,
+    "strategy_chosen": "baseline",
+    "quality_score": 1.0
+  },
+  {
+    "source_id": "article_28",
+    "model": "llama3.2",
+    "article_type": "debate_heavy",
+    "attempt": 1,
+    "strategy_chosen": "chain_of_thought",
+    "quality_score": 1.0
+  },
+  {
+    "source_id": "article_28",
+    "model": "gemma2",
+    "article_type": "debate_heavy",
+    "attempt": 1,
+    "strategy_chosen": "chain_of_thought",
+    "quality_score": 1.0
+  },
+  {
+    "source_id": "article_30",
+    "model": "llama3.1",
+    "article_type": "debate_heavy",
+    "attempt": 1,
+    "strategy_chosen": "baseline",
+    "quality_score": 1.0
+  },
+  {
+    "source_id": "article_30",
+    "model": "llama3.2",
+    "article_type": "debate_heavy",
+    "attempt": 1,
+    "strategy_chosen": "chain_of_thought",
+    "quality_score": 1.0
+  },
+  {
+    "source_id": "article_30",
+    "model": "gemma2",
+    "article_type": "debate_heavy",
+    "attempt": 1,
+    "strategy_chosen": "contrastive",
+    "quality_score": 1.0
+  },
+  {
+    "source_id": "article_31",
+    "model": "llama3.1",
+    "article_type": "debate_heavy",
+    "attempt": 1,
+    "strategy_chosen": "baseline",
+    "quality_score": 1.0
+  },
+  {
+    "source_id": "article_31",
+    "model": "llama3.2",
+    "article_type": "debate_heavy",
+    "attempt": 1,
+    "strategy_chosen": "chain_of_thought",
+    "quality_score": 1.0
+  },
+  {
+    "source_id": "article_31",
+    "model": "gemma2",
+    "article_type": "debate_heavy",
+    "attempt": 1,
+    "strategy_chosen": "chain_of_thought",
+    "quality_score": 1.0
+  },
+  {
+    "source_id": "article_32",
+    "model": "llama3.1",
+    "article_type": "debate_heavy",
+    "attempt": 1,
+    "strategy_chosen": "baseline",
+    "quality_score": 1.0
+  },
+  {
+    "source_id": "article_32",
+    "model": "llama3.2",
+    "article_type": "debate_heavy",
+    "attempt": 2,
+    "strategy_chosen": "chain_of_thought",
+    "quality_score": 0.0
+  },
+  {
+    "source_id": "article_32",
+    "model": "gemma2",
+    "article_type": "debate_heavy",
+    "attempt": 1,
+    "strategy_chosen": "chain_of_thought",
+    "quality_score": 1.0
+  },
+  {
+    "source_id": "article_33",
+    "model": "llama3.1",
+    "article_type": "simple",
+    "attempt": 1,
+    "strategy_chosen": "baseline",
+    "quality_score": 0.8
+  },
+  {
+    "source_id": "article_33",
+    "model": "llama3.2",
+    "article_type": "simple",
+    "attempt": 1,
+    "strategy_chosen": "chain_of_thought",
+    "quality_score": 1.0
+  },
+  {
+    "source_id": "article_33",
+    "model": "gemma2",
+    "article_type": "simple",
+    "attempt": 1,
+    "strategy_chosen": "baseline",
+    "quality_score": 1.0
+  },
+  {
+    "source_id": "article_34",
+    "model": "llama3.1",
+    "article_type": "complex",
+    "attempt": 1,
+    "strategy_chosen": "chain_of_thought",
+    "quality_score": 1.0
+  },
+  {
+    "source_id": "article_34",
+    "model": "llama3.2",
+    "article_type": "complex",
+    "attempt": 1,
+    "strategy_chosen": "chain_of_thought",
+    "quality_score": 1.0
+  },
+  {
+    "source_id": "article_34",
+    "model": "gemma2",
+    "article_type": "complex",
+    "attempt": 1,
+    "strategy_chosen": "chain_of_thought",
+    "quality_score": 1.0
+  },
+  {
+    "source_id": "article_36",
+    "model": "llama3.1",
+    "article_type": "simple",
+    "attempt": 1,
+    "strategy_chosen": "baseline",
+    "quality_score": 1.0
+  },
+  {
+    "source_id": "article_36",
+    "model": "llama3.2",
+    "article_type": "simple",
+    "attempt": 1,
+    "strategy_chosen": "chain_of_thought",
+    "quality_score": 1.0
+  },
+  {
+    "source_id": "article_36",
+    "model": "gemma2",
+    "article_type": "simple",
+    "attempt": 1,
+    "strategy_chosen": "baseline",
+    "quality_score": 1.0
+  },
+  {
+    "source_id": "article_37",
+    "model": "llama3.1",
+    "article_type": "debate_heavy",
+    "attempt": 1,
+    "strategy_chosen": "baseline",
+    "quality_score": 1.0
+  },
+  {
+    "source_id": "article_37",
+    "model": "llama3.2",
+    "article_type": "debate_heavy",
+    "attempt": 1,
+    "strategy_chosen": "chain_of_thought",
+    "quality_score": 1.0
+  },
+  {
+    "source_id": "article_37",
+    "model": "gemma2",
+    "article_type": "debate_heavy",
+    "attempt": 1,
+    "strategy_chosen": "chain_of_thought",
+    "quality_score": 1.0
+  },
+  {
+    "source_id": "article_38",
+    "model": "llama3.1",
+    "article_type": "debate_heavy",
+    "attempt": 1,
+    "strategy_chosen": "baseline",
+    "quality_score": 1.0
+  },
+  {
+    "source_id": "article_38",
+    "model": "llama3.2",
+    "article_type": "debate_heavy",
+    "attempt": 2,
+    "strategy_chosen": "chain_of_thought",
+    "quality_score": 0.0
+  },
+  {
+    "source_id": "article_38",
+    "model": "gemma2",
+    "article_type": "debate_heavy",
+    "attempt": 1,
+    "strategy_chosen": "chain_of_thought",
+    "quality_score": 1.0
+  },
+  {
+    "source_id": "article_39",
+    "model": "llama3.1",
+    "article_type": "debate_heavy",
+    "attempt": 2,
+    "strategy_chosen": "baseline",
+    "quality_score": 1.0
+  },
+  {
+    "source_id": "article_39",
+    "model": "llama3.2",
+    "article_type": "debate_heavy",
+    "attempt": 2,
+    "strategy_chosen": "chain_of_thought",
+    "quality_score": 0.0
+  },
+  {
+    "source_id": "article_39",
+    "model": "gemma2",
+    "article_type": "debate_heavy",
+    "attempt": 1,
+    "strategy_chosen": "chain_of_thought",
+    "quality_score": 1.0
+  },
+  {
+    "source_id": "article_40",
+    "model": "llama3.1",
+    "article_type": "simple",
+    "attempt": 1,
+    "strategy_chosen": "baseline",
+    "quality_score": 1.0
+  },
+  {
+    "source_id": "article_40",
+    "model": "llama3.2",
+    "article_type": "simple",
+    "attempt": 1,
+    "strategy_chosen": "chain_of_thought",
+    "quality_score": 1.0
+  },
+  {
+    "source_id": "article_40",
+    "model": "gemma2",
+    "article_type": "simple",
+    "attempt": 1,
+    "strategy_chosen": "baseline",
+    "quality_score": 1.0
+  },
+  {
+    "source_id": "article_41",
+    "model": "llama3.1",
+    "article_type": "complex",
+    "attempt": 1,
+    "strategy_chosen": "baseline",
+    "quality_score": 1.0
+  },
+  {
+    "source_id": "article_41",
+    "model": "llama3.2",
+    "article_type": "complex",
+    "attempt": 2,
+    "strategy_chosen": "chain_of_thought",
+    "quality_score": 0.0
+  },
+  {
+    "source_id": "article_41",
+    "model": "gemma2",
+    "article_type": "complex",
+    "attempt": 1,
+    "strategy_chosen": "chain_of_thought",
+    "quality_score": 1.0
+  },
+  {
+    "source_id": "article_42",
+    "model": "llama3.1",
+    "article_type": "debate_heavy",
+    "attempt": 1,
+    "strategy_chosen": "baseline",
+    "quality_score": 1.0
+  },
+  {
+    "source_id": "article_42",
+    "model": "llama3.2",
+    "article_type": "debate_heavy",
+    "attempt": 2,
+    "strategy_chosen": "chain_of_thought",
+    "quality_score": 0.0
+  },
+  {
+    "source_id": "article_42",
+    "model": "gemma2",
+    "article_type": "debate_heavy",
+    "attempt": 1,
+    "strategy_chosen": "chain_of_thought",
+    "quality_score": 1.0
+  },
+  {
+    "source_id": "article_43",
+    "model": "llama3.1",
+    "article_type": "debate_heavy",
+    "attempt": 1,
+    "strategy_chosen": "baseline",
+    "quality_score": 1.0
+  },
+  {
+    "source_id": "article_43",
+    "model": "llama3.2",
+    "article_type": "debate_heavy",
+    "attempt": 2,
+    "strategy_chosen": "chain_of_thought",
+    "quality_score": 0.0
+  },
+  {
+    "source_id": "article_43",
+    "model": "gemma2",
+    "article_type": "debate_heavy",
+    "attempt": 1,
+    "strategy_chosen": "chain_of_thought",
+    "quality_score": 1.0
+  },
+  {
+    "source_id": "article_44",
+    "model": "llama3.1",
+    "article_type": "debate_heavy",
+    "attempt": 1,
+    "strategy_chosen": "baseline",
+    "quality_score": 1.0
+  },
+  {
+    "source_id": "article_44",
+    "model": "llama3.2",
+    "article_type": "debate_heavy",
+    "attempt": 1,
+    "strategy_chosen": "chain_of_thought",
+    "quality_score": 1.0
+  },
+  {
+    "source_id": "article_44",
+    "model": "gemma2",
+    "article_type": "debate_heavy",
+    "attempt": 1,
+    "strategy_chosen": "chain_of_thought",
+    "quality_score": 1.0
+  },
+  {
+    "source_id": "article_45",
+    "model": "llama3.1",
+    "article_type": "debate_heavy",
+    "attempt": 1,
+    "strategy_chosen": "baseline",
+    "quality_score": 1.0
+  },
+  {
+    "source_id": "article_45",
+    "model": "llama3.2",
+    "article_type": "debate_heavy",
+    "attempt": 2,
+    "strategy_chosen": "chain_of_thought",
+    "quality_score": 0.0
+  },
+  {
+    "source_id": "article_45",
+    "model": "gemma2",
+    "article_type": "debate_heavy",
+    "attempt": 2,
+    "strategy_chosen": "chain_of_thought",
+    "quality_score": 1.0
+  },
+  {
+    "source_id": "article_46",
+    "model": "llama3.1",
+    "article_type": "simple",
+    "attempt": 1,
+    "strategy_chosen": "baseline",
+    "quality_score": 1.0
+  },
+  {
+    "source_id": "article_46",
+    "model": "llama3.2",
+    "article_type": "simple",
+    "attempt": 2,
+    "strategy_chosen": "chain_of_thought",
+    "quality_score": 1.0
+  },
+  {
+    "source_id": "article_46",
+    "model": "gemma2",
+    "article_type": "simple",
+    "attempt": 1,
+    "strategy_chosen": "baseline",
+    "quality_score": 1.0
+  },
+  {
+    "source_id": "article_47",
+    "model": "llama3.1",
+    "article_type": "debate_heavy",
+    "attempt": 1,
+    "strategy_chosen": "baseline",
+    "quality_score": 1.0
+  },
+  {
+    "source_id": "article_47",
+    "model": "llama3.2",
+    "article_type": "debate_heavy",
+    "attempt": 1,
+    "strategy_chosen": "chain_of_thought",
+    "quality_score": 1.0
+  },
+  {
+    "source_id": "article_47",
+    "model": "gemma2",
+    "article_type": "debate_heavy",
+    "attempt": 1,
+    "strategy_chosen": "chain_of_thought",
+    "quality_score": 1.0
+  },
+  {
+    "source_id": "article_48",
+    "model": "llama3.1",
+    "article_type": "debate_heavy",
+    "attempt": 1,
+    "strategy_chosen": "baseline",
+    "quality_score": 1.0
+  },
+  {
+    "source_id": "article_48",
+    "model": "llama3.2",
+    "article_type": "debate_heavy",
+    "attempt": 2,
+    "strategy_chosen": "chain_of_thought",
+    "quality_score": 1.0
+  },
+  {
+    "source_id": "article_48",
+    "model": "gemma2",
+    "article_type": "debate_heavy",
+    "attempt": 1,
+    "strategy_chosen": "chain_of_thought",
+    "quality_score": 1.0
+  },
+  {
+    "source_id": "article_49",
+    "model": "llama3.1",
+    "article_type": "debate_heavy",
+    "attempt": 1,
+    "strategy_chosen": "baseline",
+    "quality_score": 1.0
+  },
+  {
+    "source_id": "article_49",
+    "model": "llama3.2",
+    "article_type": "debate_heavy",
+    "attempt": 1,
+    "strategy_chosen": "chain_of_thought",
+    "quality_score": 1.0
+  },
+  {
+    "source_id": "article_49",
+    "model": "gemma2",
+    "article_type": "debate_heavy",
+    "attempt": 1,
+    "strategy_chosen": "chain_of_thought",
+    "quality_score": 1.0
+  },
+  {
+    "source_id": "article_50",
+    "model": "llama3.1",
+    "article_type": "simple",
+    "attempt": 1,
+    "strategy_chosen": "baseline",
+    "quality_score": 1.0
+  },
+  {
+    "source_id": "article_50",
+    "model": "llama3.2",
+    "article_type": "simple",
+    "attempt": 1,
+    "strategy_chosen": "chain_of_thought",
+    "quality_score": 1.0
+  },
+  {
+    "source_id": "article_50",
+    "model": "gemma2",
+    "article_type": "simple",
+    "attempt": 1,
+    "strategy_chosen": "baseline",
+    "quality_score": 1.0
+  },
+  {
+    "source_id": "article_51",
+    "model": "llama3.1",
+    "article_type": "debate_heavy",
+    "attempt": 1,
+    "strategy_chosen": "baseline",
+    "quality_score": 1.0
+  },
+  {
+    "source_id": "article_51",
+    "model": "llama3.2",
+    "article_type": "debate_heavy",
+    "attempt": 1,
+    "strategy_chosen": "chain_of_thought",
+    "quality_score": 1.0
+  },
+  {
+    "source_id": "article_51",
+    "model": "gemma2",
+    "article_type": "debate_heavy",
+    "attempt": 1,
+    "strategy_chosen": "contrastive",
+    "quality_score": 1.0
+  },
+  {
+    "source_id": "article_52",
+    "model": "llama3.1",
+    "article_type": "evidence_heavy",
+    "attempt": 1,
+    "strategy_chosen": "baseline",
+    "quality_score": 1.0
+  },
+  {
+    "source_id": "article_52",
+    "model": "llama3.2",
+    "article_type": "evidence_heavy",
+    "attempt": 1,
+    "strategy_chosen": "chain_of_thought",
+    "quality_score": 1.0
+  },
+  {
+    "source_id": "article_52",
+    "model": "gemma2",
+    "article_type": "evidence_heavy",
+    "attempt": 1,
+    "strategy_chosen": "chain_of_thought",
+    "quality_score": 1.0
+  },
+  {
+    "source_id": "article_53",
+    "model": "llama3.1",
+    "article_type": "simple",
+    "attempt": 1,
+    "strategy_chosen": "baseline",
+    "quality_score": 1.0
+  },
+  {
+    "source_id": "article_53",
+    "model": "llama3.2",
+    "article_type": "simple",
+    "attempt": 1,
+    "strategy_chosen": "chain_of_thought",
+    "quality_score": 1.0
+  },
+  {
+    "source_id": "article_53",
+    "model": "gemma2",
+    "article_type": "simple",
+    "attempt": 1,
+    "strategy_chosen": "baseline",
+    "quality_score": 1.0
+  },
+  {
+    "source_id": "article_54",
+    "model": "llama3.1",
+    "article_type": "simple",
+    "attempt": 1,
+    "strategy_chosen": "baseline",
+    "quality_score": 1.0
+  },
+  {
+    "source_id": "article_54",
+    "model": "llama3.2",
+    "article_type": "simple",
+    "attempt": 1,
+    "strategy_chosen": "chain_of_thought",
+    "quality_score": 1.0
+  },
+  {
+    "source_id": "article_54",
+    "model": "gemma2",
+    "article_type": "simple",
+    "attempt": 1,
+    "strategy_chosen": "baseline",
+    "quality_score": 1.0
+  },
+  {
+    "source_id": "article_55",
+    "model": "llama3.1",
+    "article_type": "simple",
+    "attempt": 1,
+    "strategy_chosen": "baseline",
+    "quality_score": 1.0
+  },
+  {
+    "source_id": "article_55",
+    "model": "llama3.2",
+    "article_type": "simple",
+    "attempt": 1,
+    "strategy_chosen": "contrastive",
+    "quality_score": 1.0
+  },
+  {
+    "source_id": "article_55",
+    "model": "gemma2",
+    "article_type": "simple",
+    "attempt": 1,
+    "strategy_chosen": "baseline",
+    "quality_score": 1.0
+  },
+  {
+    "source_id": "article_56",
+    "model": "llama3.1",
+    "article_type": "simple",
+    "attempt": 1,
+    "strategy_chosen": "baseline",
+    "quality_score": 1.0
+  },
+  {
+    "source_id": "article_56",
+    "model": "llama3.2",
+    "article_type": "simple",
+    "attempt": 2,
+    "strategy_chosen": "chain_of_thought",
+    "quality_score": 0.7000000000000001
+  },
+  {
+    "source_id": "article_56",
+    "model": "gemma2",
+    "article_type": "simple",
+    "attempt": 1,
+    "strategy_chosen": "baseline",
+    "quality_score": 1.0
+  },
+  {
+    "source_id": "article_57",
+    "model": "llama3.1",
+    "article_type": "simple",
+    "attempt": 1,
+    "strategy_chosen": "baseline",
+    "quality_score": 1.0
+  },
+  {
+    "source_id": "article_57",
+    "model": "llama3.2",
+    "article_type": "simple",
+    "attempt": 2,
+    "strategy_chosen": "chain_of_thought",
+    "quality_score": 1.0
+  },
+  {
+    "source_id": "article_57",
+    "model": "gemma2",
+    "article_type": "simple",
+    "attempt": 1,
+    "strategy_chosen": "baseline",
+    "quality_score": 1.0
+  }
+]

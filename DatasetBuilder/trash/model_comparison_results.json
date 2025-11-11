@@ -1,0 +1,29 @@
+{
+  "baseline": {
+    "scores": {
+      "thesis": 0.4533628565445542,
+      "supporting_claims": 0.3511871452061903,
+      "counterarguments": 0.2326847686730325,
+      "evidence": 0.24389850698609553,
+      "overall": 0.3202833193524681
+    },
+    "file": "C:\\Users\\Mr. Mohit Makde\\OneDrive\\Desktop\\Argument-Cartographer-main\\DatasetBuilder\\data\\processed\\reputable_news_dataset_cleaned.json"
+  },
+  "enhanced": {
+    "scores": {
+      "thesis": 0.4336728824444277,
+      "supporting_claims": 0.36357003260349885,
+      "counterarguments": 0.24126230744456034,
+      "evidence": 0.19682749200874544,
+      "overall": 0.30883317862530807
+    },
+    "file": "C:\\Users\\Mr. Mohit Makde\\OneDrive\\Desktop\\Argument-Cartographer-main\\DatasetBuilder\\data\\processed\\enhanced_model_dataset.json"
+  },
+  "improvement": {
+    "thesis": -4.343093796920146,
+    "supporting_claims": 3.5260081601330375,
+    "counterarguments": 3.686334443137081,
+    "evidence": -19.29942727367067,
+    "overall": -3.575003765512778
+  }
+}
